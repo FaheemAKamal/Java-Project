@@ -8,7 +8,5 @@ Project for CSC 221 - Software Design Lab at the City College of New York.
 - The Database may use ArrayList instead of Array to hold the collection of Item&#39;s references. Add an appropriate set of overloading/overriding methods to support the object hierarchy assumed in this context.
 - Implement the hierarchy, populate Database with at least two items per non-abstract class, and show the &quot;unsorted&quot; and &quot;sorted&quot; list of the set of those instances. 
 - The minimal requirement of this assignment is to realize the database sort based on the lexicographical order of id as well as any combination of data variables. For instance, database records are shown based on the lexicographical order of &quot;title,&quot; followed by&quot;addedOn,&quot; and followed by &quot;director.&quot;
-## Additional Information
-- There are comments in the code that illustrates the thought process and exactly what each line of code is doing.
 ## Ask me about anything
 If there are any questions, feel free to contact me via email.
