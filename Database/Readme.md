@@ -11,4 +11,4 @@ Project for CSC 221 - Software Design Lab at the City College of New York.
 ## Additional Information
 - There are comments in the code that illustrates the thought process and exactly what each line of code is doing.
 ## Ask me about anything
-If there are any questions, feel free to ask them [here](https://github.com/ChibiKev/Library-Database/issues).
+If there are any questions, feel free to contact me via email.
